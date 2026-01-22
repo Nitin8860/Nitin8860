@@ -6,11 +6,11 @@
 
 
 
-# 🧑‍💻 About me:
+# 🧑‍💻 About Me:
 - 🎓 **B.Tech CSE student at Invertis University (Graduating 2026)**
-- 🔭 **I’m currently working on:** Yatra App Using MERN Stack
-- 🌱 **I’m currently learning:** Development , DSA
-- 📫 **How to reach me:** nitinbly2004@gmail.com
+- 🔭 **Currently working on:** Yatra App using MERN Stack
+- 🌱 **Currently learning:** Web Development & DSA
+- 🌐 **Portfolio:** https://portfolio-flame-xi-39.vercel.app/
 
   
 # 💻 Tech Stack:
